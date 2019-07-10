@@ -1,0 +1,7 @@
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\obj\Debug\First Project.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\bin\Debug\First Project.exe.config
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\bin\Debug\First Project.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\bin\Debug\First Project.pdb
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\obj\Debug\First Project.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\First Project\First Project\obj\Debug\First Project.pdb
